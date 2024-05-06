@@ -11,7 +11,13 @@
 ### Data
 Top 4 rows
 
-![image.png](attachment:ea95cbaf-8fee-4b21-a8e0-e942d546d4ed.png)
+| age              | sex| bmi | children              | smoker| region |charges |
+| :---------------- | :------: | ----: | :---------------- | :------: | ----: | ----: |
+| 19| 	female| 	27.9| 	0| 	yes	| southwest	| 16884.924| 
+| 18| 	male| 	33.77| 	1	| no	| southeast| 	1725.5523| 
+| 28| 	male| 	33| 	3| 	no	| southeast| 	4449.462| 
+| 33| 	male| 	22.705| 	0| 	no| 	northwest| 	21984.47061| 
+
 
 ### Analysis
 - avarage cost by region
